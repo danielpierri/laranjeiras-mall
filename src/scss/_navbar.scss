@@ -1,0 +1,54 @@
+.nav {
+  position: relative;
+
+  &__logo__container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__logo,
+  &__logo-title {
+    margin: 0 auto;
+  }
+
+  &__logo {
+    // border: 1px solid red;
+    margin-top: 1.5em;
+    max-width: 75px;
+    min-width: 75px;
+  }
+
+  &__logo-title {
+    // border: 1px solid red;
+    margin-top: -.5rem;
+    max-width: 300px;
+    min-width: 300px;
+  }
+
+  &__opening-hours {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+
+  &__list {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+    margin-bottom: 3rem;
+  }
+
+  &__list li {
+    list-style: none;
+  }
+  
+  &__link {
+    cursor: pointer;
+    display: block;
+    font-size: 2rem;
+    padding: .5rem;
+    margin-inline: .75rem;
+    text-decoration: none;
+    color: #FFF;
+  }
+}

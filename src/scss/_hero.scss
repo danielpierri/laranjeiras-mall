@@ -1,0 +1,26 @@
+.home__bg {
+  // background: url(../img/bg.jpg);
+  background-position: center;
+  background-size: cover;
+  // background-blend-mode: multiply;
+  // border: 1px solid deeppink;
+  background-color: #222;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  max-height: 100vh;
+  position: relative;
+}
+
+.home {
+  display: flex;
+  flex-direction: column;
+  // background-color: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(3px);
+  min-height: 100vh;
+  max-height: 100vh;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}

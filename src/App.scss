@@ -1,0 +1,14 @@
+@import "./scss/variables";
+@import "./scss/mixins";
+@import "./scss/slider";
+@import "./scss/hero";
+@import "./scss/navbar";
+
+*,
+*::after,
+*::before {
+  // border: 1px solid red;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
