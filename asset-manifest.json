@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/laranjeiras-mall/static/css/main.ca590a28.css",
+    "main.js": "/laranjeiras-mall/static/js/main.c9a8e879.js",
+    "static/media/lj-mall-frente.jpg": "/laranjeiras-mall/static/media/lj-mall-frente.347c015e5fc2a5a3578e.jpg",
+    "static/media/lj-mall-lustre.jpg": "/laranjeiras-mall/static/media/lj-mall-lustre.0db903ba5f446225c4f0.jpg",
+    "static/media/lj-mall-dentro.jpg": "/laranjeiras-mall/static/media/lj-mall-dentro.ee0d2a28790094a1e712.jpg",
+    "index.html": "/laranjeiras-mall/index.html",
+    "main.ca590a28.css.map": "/laranjeiras-mall/static/css/main.ca590a28.css.map",
+    "main.c9a8e879.js.map": "/laranjeiras-mall/static/js/main.c9a8e879.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca590a28.css",
+    "static/js/main.c9a8e879.js"
+  ]
+}
